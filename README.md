@@ -2,4 +2,4 @@
 
 
 ## 🔧 Project Diagram:
-![Project Diagram](https://i.gyazo.com/2738ea6743a40036756b1b5714ab9fa8.png)
+![Project Diagram](614ba7406b5b5f350682ab60_Screen Shot 2021-09-22 at 5.59.02 PM.png)
